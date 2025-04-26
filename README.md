@@ -2,6 +2,9 @@
 
 A project designed to control and monitor fans using C++ with CMake for build management.
 
+Why is there a DLL Wrapper? 
+It's supposed to be a Python project, but I couldn't figure out how to load DLLs in Python.
+
 ## Table of Contents
 
 - [Overview](#overview)
