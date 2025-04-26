@@ -6,5 +6,5 @@ build/
 
 # Ignore imports folders
 imgui/
-implot/
-mingw32/
+implot-0.16/
+x86_64-w64-mingw32/
