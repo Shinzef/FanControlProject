@@ -40,3 +40,4 @@ The **FanControlProject** is a software solution for managing fan speeds on Legi
 ## License
 
 ## Credits
+https://github.com/rango886/LegionFanEmbeddedController - for the Registers.
