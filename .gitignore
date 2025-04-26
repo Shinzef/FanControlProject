@@ -1,0 +1,10 @@
+# Ignore build folder
+build/
+
+# Ignore DLL files
+*.dll
+
+# Ignore imports folders
+imgui/
+implot/
+mingw32/
